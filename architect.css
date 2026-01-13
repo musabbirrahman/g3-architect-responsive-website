@@ -25,6 +25,12 @@
     font-size: 1.25rem;
     padding: 20px 25px;
     border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+.btn-primary:hover {
+    background-color: #d17300;
+    color: #ffffff;
 }
 
 main{
